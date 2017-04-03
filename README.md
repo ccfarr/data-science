@@ -1,3 +1,3 @@
 ## README.md
 
-My notes on Data Science.
+My notes on data science
